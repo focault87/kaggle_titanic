@@ -1,2 +1,2 @@
 # kaggle_titanic
-kaggle titanice dataset
+kaggle titanic dataset
